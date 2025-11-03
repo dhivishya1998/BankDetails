@@ -16,6 +16,6 @@ public class BankInfo extends AxisBank{
 		bank1.saving();
 		bank1.fixed();
 		bank1.deposit();	
-		dhivi;
+		
 	}
 }
